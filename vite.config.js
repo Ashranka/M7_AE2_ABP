@@ -6,5 +6,6 @@ export default defineConfig({
   server: {
     port: 3000,
     open: true
-  }
+  },
+  base:'https://ashranka.github.io/M7_AE2_ABP/'
 })
